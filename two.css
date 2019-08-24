@@ -1,0 +1,14 @@
+p {
+  text-align: center;
+  color: red;
+} 
+a{
+	text-decoration:none;
+}
+#under{
+	text-decoration: underline;
+}
+.jus{
+	text-align: justify;
+  text-justify: inter-word;
+}
